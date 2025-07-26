@@ -1,0 +1,39 @@
+
+{
+  "appName": "SkyPulse",
+  "searchPlaceholder": "Search for a city...",
+  "searchButton": "Search",
+  "humidity": "Humidity",
+  "windSpeed": "Wind Speed",
+  "feelsLike": "Feels like",
+  "details": "Details",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "auto": "Auto",
+  "language": "Language",
+  "notFound": "City not found. Please try another one.",
+  "fetchError": "Could not fetch weather data. Please check your connection or API key.",
+  "aiAlertTitle": "Weather Alert",
+  "aiRecommendationTitle": "AI Recommendation",
+  "languages": {
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "it": "Italian",
+    "de": "German"
+  },
+  "loading": "Loading...",
+  "localTime": "Local Time",
+  "uvIndex": "UV Index",
+  "cloudCover": "Cloud Cover",
+  "forecast": "Forecast",
+  "timeFormat": "Time Format",
+  "timeFormats": {
+    "h12": "12-hour",
+    "h24": "24-hour"
+  },
+  "precipitationProbability": "Precip. probability",
+  "visibility": "Visibility",
+  "pressure": "Pressure"
+}

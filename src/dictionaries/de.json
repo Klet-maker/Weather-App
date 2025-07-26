@@ -1,0 +1,39 @@
+
+{
+  "appName": "SkyPulse",
+  "searchPlaceholder": "Suche nach einer Stadt...",
+  "searchButton": "Suchen",
+  "humidity": "Luftfeuchtigkeit",
+  "windSpeed": "Windgeschwindigkeit",
+  "feelsLike": "Gefühlt",
+  "details": "Details",
+  "theme": "Thema",
+  "light": "Hell",
+  "dark": "Dunkel",
+  "auto": "Automatisch",
+  "language": "Sprache",
+  "notFound": "Stadt nicht gefunden. Bitte versuchen Sie eine andere.",
+  "fetchError": "Wetterdaten konnten nicht abgerufen werden. Bitte überprüfen Sie Ihre Verbindung oder Ihren API-Schlüssel.",
+  "aiAlertTitle": "Wetterwarnung",
+  "aiRecommendationTitle": "KI-Empfehlung",
+  "languages": {
+    "en": "Englisch",
+    "es": "Spanisch",
+    "fr": "Französisch",
+    "it": "Italienisch",
+    "de": "Deutsch"
+  },
+  "loading": "Wird geladen...",
+  "localTime": "Ortszeit",
+  "uvIndex": "UV-Index",
+  "cloudCover": "Wolkendecke",
+  "forecast": "Vorhersage",
+  "timeFormat": "Zeitformat",
+  "timeFormats": {
+    "h12": "12-Stunden",
+    "h24": "24-Stunden"
+  },
+  "precipitationProbability": "Niederschlagswahrsch.",
+  "visibility": "Sichtweite",
+  "pressure": "Druck"
+}
